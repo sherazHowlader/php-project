@@ -1,0 +1,9 @@
+.blog_des{
+    text-indent: 50px;
+}
+
+.blog_des::first-letter{
+    font-size: 50px;
+    color: brown;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "App/Pratice Purpose",
+  "type": "project",
+  "description": "A Simple Project",
+  "License": "MIT",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
